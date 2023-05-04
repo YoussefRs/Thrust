@@ -1,0 +1,16 @@
+.carousel-container {
+    height: 500px;
+    margin-bottom: 20px; 
+  }
+.carousel {
+    height: 92%;
+}
+.carousel-items {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-items img {
+    object-fit: cover;
+}
